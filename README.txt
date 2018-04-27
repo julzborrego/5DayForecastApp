@@ -12,3 +12,4 @@ More UI and unit testing
 More clear and thourough Documentation
 I designed this to the given specs but their could be and option to enter in the zip or city, or use the location manager to find the users location.
 
+Screenshots: https://imgur.com/a/hz7F499
